@@ -1,0 +1,11 @@
+# nara
+.env
+data/
+*.db
+__pycache__/
+*.pyc
+.pytest_cache/
+PROGRESS.md
+PRD — Nara Asisten Produktivitas Pribadi Berbasis AI.md
+
+
